@@ -1,1 +1,1 @@
-ECHO is on.
+Sunday ECHO is on.
